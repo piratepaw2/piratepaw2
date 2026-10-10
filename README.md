@@ -1,24 +1,23 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+[![Hackathons](https://img.shields.io/badge/Hackathons-%F0%9F%8E%8A%20Builder-brightgreen?style=flat-square)](https://mlh.io/events)
+[![Followers](https://img.shields.io/github/followers/piratepaw2?label=Followers&style=flat-square)](https://github.com/piratepaw2?tab=followers)
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+👋 Hi, I’m Paul H. Coder — a Computer Engineering student and Teaching Assistant at the University of Central Florida. I like building software that blends systems thinking, creative problem-solving, and hands-on experimentation.
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+- 🎓 Education: Computer Engineering at the University of Central Florida
+- 💼 Role: Teaching Assistant at UCF
+- 🔭 Current focus: systems programming, graphics/rendering, and hackathon-driven projects
+- 🧠 Learning style: build, break, iterate, and improve
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- 🧩 [C_software_render](https://github.com/piratepaw2/C_software_render) — A C-based software rendering project focused on low-level graphics and rendering fundamentals.
+- ⚡ [KnightHacks2026](https://github.com/piratepaw2/KnightHacks2026) — Hackathon project work and development files from KnightHacks 2026.
+- 🐾 [piratepaw2](https://github.com/piratepaw2/piratepaw2) — My GitHub profile repository for keeping my public presence and profile README up to date.
 
 ## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+- 🧰 Languages: C, Python
+- 🔭 Focus: Computer Engineering, software rendering, problem solving, and collaborative coding
+- ❤️ Interests: learning new technologies, building creative projects, and exploring the intersection of engineering and design
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
