@@ -12,7 +12,7 @@
 ## Featured Projects
 - 🧩 [C_software_render](https://github.com/piratepaw2/C_software_render) — A C-based software rendering project focused on low-level graphics and rendering fundamentals.
 - ⚡ [KnightHacks2026](https://github.com/piratepaw2/KnightHacks2026) — Hackathon project work and development files from KnightHacks 2026.
-- 🐾 [piratepaw2](https://github.com/piratepaw2/piratepaw2) — My GitHub profile repository for keeping my public presence and profile README up to date.
+- 🐸 Sneak Peak: Frog Game — I contributed the core gameplay logic, level design ideas, and initial UI polish for this frog-themed project. The repository is private.
 
 ## Tech & Interests
 - 🧰 Languages: C, Python
