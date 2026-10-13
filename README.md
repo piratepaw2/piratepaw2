@@ -11,8 +11,18 @@
 
 ## Featured Projects
 - 🧩 [C_software_render](https://github.com/piratepaw2/C_software_render) — A C-based software rendering project focused on low-level graphics and rendering fundamentals.
-- ⚡ [KnightHacks2026](https://github.com/piratepaw2/KnightHacks2026) — Hackathon project work and development files from KnightHacks 2026.
-- 🐸 Sneak Peak: Frog Game — I contributed the core gameplay logic, level design ideas, and initial UI polish for this frog-themed project. The repository is private.
+- ⚡ [KnightHacks2026](https://github.com/piratepaw2/KnightHacks2026) — Alien Interrogation is a GameMaker Studio project built during KnightHacks 2026 that combined interactive gameplay, real-time webcam input, and a custom face-expression-driven mechanic.
+
+## KnightHacks 2026 Project
+For KnightHacks 2026, I helped build Alien Interrogation, the main game project in the `alieninterrogation` folder of the [KnightHacks2026](https://github.com/piratepaw2/KnightHacks2026) repository. The project was a fast-paced hackathon build that brought together creative game design, collaborative iteration, and technical integration between GameMaker Studio and Python.
+
+## My Contributions
+- Helped develop the main game project in the `alieninterrogation` folder, including gameplay structure and project iteration
+- Contributed to the GameMaker Studio side of the project and worked on gameplay polish, scene flow, and usability improvements
+- Built and integrated a Python face-detection backend using OpenCV and MediaPipe to expose live emotion data from the webcam
+- Connected the local HTTP server to the GameMaker project so the game could read real-time values such as `smile`, `neutral`, and `surprise` from `http://127.0.0.1:5000/emotion`
+- Assisted with gameplay/debugging and visual refinements, including testing camera integration, win/lose feedback, and music/UI polish
+- Worked closely with the other contributor, [robotdaughter1697](https://github.com/robotdaughter1697), to iterate quickly, debug issues, and turn early ideas into a playable hackathon prototype
 
 ## Tech & Interests
 - 🧰 Languages: C, Python
